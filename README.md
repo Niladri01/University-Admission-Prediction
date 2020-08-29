@@ -1,24 +1,24 @@
 # University-Admission-Prediction
 
-## FOR MANUPULATION  
+## For Data Modelling  
                     import numpy as np
                     import pandas as pd
 
-## FOR VISUALIZATION 
+## For Visualization 
                     import seaborn as sns 
                     import matplotlib.pyplot as plt 
 
-## FOR LINEAR REGRESSION
+## For Linear Regression
                     from sklearn.linear_model import LinearRegression
                     from sklearn.metrics import mean_squared_error, accuracy_score
 
-## FOR DECISION TREE
+## For Decision Tree
                     from sklearn.tree import DecisionTreeRegressor
                     
-## FOR RANDOM FOREST
+## For Random Forest
                     from sklearn.ensemble import RandomForestRegressor
 
-## FOR ARTIFICIAL NEURAL NETWORK
+## For Artificial Neural Network
                     import tensorflow as tf
                     from tensorflow import keras
                     from tensorflow.keras.layers import Dense, Activation, Dropout
