@@ -31,7 +31,7 @@
        (500, 8)
 
 ## Aim
-       The aim of this project was to train artificial neural network model to perform regression tasks, perform exploratory data analysis,
+       The aim of this project was to train artificial neural network model to perform regression tasks,perform exploratory data analysis,
        understand the theory and intuition behind regression models and train them in Scikit Learn and 
        understand the difference between various regression models KPIs such as MSE, RMSE, MAE, R2, adjusted R2
 
