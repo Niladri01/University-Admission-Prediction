@@ -1,6 +1,11 @@
 # University-Admission-Prediction
 
-Aim: The aim of this project was to train artificial neural network model to perform regression tasks,perform exploratory data analysis, understand the theory and intuition behind regression models and train them in Scikit Learn and understand the difference between various regression models KPIs such as MSE, RMSE, MAE, R2, adjusted R2
+*Aim:* The aim of this project was to train artificial neural network model to perform regression tasks,perform exploratory data analysis, understand the theory and intuition behind regression models and train them in Scikit Learn and understand the difference between various regression models KPIs such as MSE, RMSE, MAE, R2, adjusted R2.
+
+*Theroretical Overview:*
+*Decision Tress:* Decision Tress are a non-parametric supervised learning method used for classification and regression. They are yes or no model. If the answer is yes, we follow the left hand branch and ask another question. If the answer is no, we follow right hand branch and ask a potentilly different question.
+*Random Forest:* Random Forest is a supervised machine learning algorithm consisting many decision trees. The *forest* it builds, is an ensemble of decision trees, usually trained with the “bagging” method.
+*Artificial Neural Network:* ANN, usually called neural networks, is the component of artificial intelligence that is meant to simulate the functioning of a human brain. Deep Learning algorithms use neural networks to find associations between a set of inputs and outputs. 
 
 ## For Data Modelling  
        import numpy as np
