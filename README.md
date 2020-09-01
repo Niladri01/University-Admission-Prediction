@@ -2,7 +2,7 @@
 
 *Aim:* The aim of this project was to train artificial neural network model to perform regression tasks,perform exploratory data analysis, understand the theory and intuition behind regression models and train them in Scikit Learn and understand the difference between various regression models KPIs such as MSE, RMSE, MAE, R2, adjusted R2.
 
-*Theroretical Overview:*
+## Theroretical Overview
 
 *Decision Tress:* Decision Tress are a non-parametric supervised learning method used for classification and regression. They are yes or no model. If the answer is yes, we follow the left hand branch and ask another question. If the answer is no, we follow right hand branch and ask a potentilly different question.
 
